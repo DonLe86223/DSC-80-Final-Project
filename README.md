@@ -1,1 +1,1 @@
-# DSC-80-Final-Project
+# DSC 80 Final Project: League Of Legends 15 Minute Match Predictor
